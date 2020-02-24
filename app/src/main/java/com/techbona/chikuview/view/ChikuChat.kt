@@ -4,6 +4,9 @@ import android.content.Context
 import android.content.res.ColorStateList
 import android.graphics.drawable.Drawable
 import android.os.Handler
+import android.support.v4.content.ContextCompat
+import android.support.v4.graphics.drawable.DrawableCompat
+import android.support.v4.widget.SwipeRefreshLayout
 import android.text.TextWatcher
 import android.util.AttributeSet
 import android.view.LayoutInflater
@@ -11,9 +14,6 @@ import android.view.View
 import android.view.inputmethod.InputMethodManager
 import android.widget.AdapterView
 import android.widget.LinearLayout
-import androidx.core.content.ContextCompat
-import androidx.core.graphics.drawable.DrawableCompat
-import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.techbona.chikuview.model.Attribute
 import com.techbona.chikuview.model.Message
 import com.techbona.myapplication.R

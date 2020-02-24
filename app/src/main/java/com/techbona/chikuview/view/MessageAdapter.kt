@@ -5,6 +5,8 @@ import android.content.Context
 import android.content.res.ColorStateList
 import android.graphics.Color
 import android.graphics.drawable.Drawable
+import android.support.v4.content.ContextCompat
+import android.support.v4.graphics.drawable.DrawableCompat
 import android.util.TypedValue
 import android.view.LayoutInflater
 import android.view.View
@@ -14,8 +16,6 @@ import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
 
-import androidx.core.content.ContextCompat
-import androidx.core.graphics.drawable.DrawableCompat
 import com.techbona.chikuview.model.Attribute
 import com.techbona.chikuview.model.Message
 import com.techbona.myapplication.R
