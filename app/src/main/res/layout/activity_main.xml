@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <com.techbona.chikuview.view.ChikuChat
+            android:id="@+id/chat_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:date_separator_font_size="16sp"
+            app:message_font_size="20sp"
+            app:message_max_width="200dp"
+            app:option_button_enable="true"
+            app:text_selectable="true"
+            app:time_label_font_size="16sp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="signupColor">#066e8a</color>
+    <color name="title">#FF303F9F</color>
+    <color name="gray">#e9e7e7</color>
+    <color name="black">#000000</color>
+    <color name="purple">#8268D1</color>
+    <color name="blue">#4bc2ff</color>
+    <color name="green">#2EDF5C</color>
+    <color name="textcolor">#6baffe</color>
+    <color name="backcolor">#EDEFFF</color>
+
+    <color name="light_gray">#F2F2F2</color>
+    <color name="dark_blue">#095ee7</color>
+    <color name="light_black">#9F9F9F</color>
+    <color name="cardtextcolour">#FF000000</color>
+    <color name="background">#dde0e8</color>
+    <color name="fent_gray">#EDEDED</color>
+    <color name="dark_gray">#BCBCBC</color>
+    <color name="col">#e90404</color>
+    <color name="pie_color">#f2ad3d</color>
+
+
+
+    <!--Theme & Accent -->
+    <color name="red500">#F44336</color>
+    <color name="teal100">#B2DFDB</color>
+    <color name="teal500">#009688</color>
+    <color name="cyan900">#006064</color>
+    <color name="lightBlue500">#03A9F4</color>
+
+    <color name="green500">#4CAF50</color>
+
+
+
+    <!-- Grey scales -->
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="blueGray50">#ECEFF1</color>
+    <color name="blueGray200">#B0BEC5</color>
+    <color name="blueGray300">#90A4AE</color>
+    <color name="blueGray400">#78909C</color>
+    <color name="blueGray500">#607D8B</color>
+
+    <!-- Bubble color -->
+    <color name="default_left_bubble_color">@color/button_material_light</color>
+    <color name="default_right_bubble_color">@color/green500</color>
+</resources>
